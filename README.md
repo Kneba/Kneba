@@ -1,4 +1,2 @@
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" />
-<br>  
-<br>
-<br>
+## nothing productive:
+<img align="center" src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
